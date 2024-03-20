@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;
+    row-gap: 69px;
+    background-image: url(bg.jpg);
+    padding-inline: 10%;
+    background-size: cover;
+}
+
+a {
+    color:red;
+    margin-bottom: 555px;
+    font-size: 160px;
+}
